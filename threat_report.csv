@@ -1,0 +1,11 @@
+username,login_hour,files_accessed,files_downloaded,failed_logins,usb_used,sensitive_access,anomaly,risk_score,risk_level
+user1,9,5,2,0,0,0,1,0,LOW
+user2,10,6,3,0,0,0,1,0,LOW
+user3,11,4,1,1,0,0,1,0,LOW
+user4,2,200,150,5,1,1,1,100,HIGH
+user5,3,180,120,4,1,1,-1,100,HIGH
+user6,14,7,2,0,0,0,1,0,LOW
+user7,1,250,200,6,1,1,-1,100,HIGH
+user8,13,5,2,0,0,0,1,0,LOW
+user9,23,120,80,3,1,1,-1,70,HIGH
+user10,8,6,3,0,0,0,1,0,LOW

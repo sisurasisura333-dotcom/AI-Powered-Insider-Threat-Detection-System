@@ -1,0 +1,11 @@
+username,login_hour,files_accessed,files_downloaded,failed_logins,usb_used,sensitive_access,network_uploads
+alice,9,5,2,0,0,0,0
+bob,2,300,150,5,1,1,200
+carol,10,6,4,0,0,0,0
+dan,23,200,180,4,1,1,150
+eve,14,8,3,0,0,0,0
+frank,1,250,200,6,1,1,300
+grace,11,5,2,0,0,0,0
+heidi,3,180,160,3,1,1,220
+ivan,12,6,3,0,0,0,0
+judy,22,210,190,4,1,1,250
